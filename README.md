@@ -29,19 +29,19 @@ I enjoy building real-world projects, learning new technologies and continuously
 
 ## 🛠️ Tech Stack
 
-**Languages**
+### Programming
 
 `Java` `C` `Python` `JavaScript`
 
-**Frontend**
+### Frontend
 
 `HTML` `CSS` `React.js` `Vite`
 
-**Backend & Database**
+### Backend & Database
 
 `Node.js` `Express.js` `MongoDB` `REST API`
 
-**Tools & Technologies**
+### Tools & Technologies
 
 `Git` `GitHub` `Vercel` `AI/ML` `Data Science`
 
@@ -51,32 +51,37 @@ I enjoy building real-world projects, learning new technologies and continuously
 
 ### 📚 Student Resources Hub
 
-Educational platform for accessing notes, PYQs, syllabus and e-books.
+A student-focused educational platform for accessing notes, previous year questions, syllabus, e-books and other academic resources.
 
-**React • Node.js • Express.js • MongoDB**
+**Tech:** React.js • Node.js • Express.js • MongoDB
 
-🔗 [Live Website](https://student-resources-hub-production.vercel.app/login)
+🔗 **[Live Website →](https://student-resources-hub-production.vercel.app/login)**
 
-📈 INVESTIQ AI
+---
+
+### 📈 INVESTIQ AI
 
 An AI-powered stock and cryptocurrency platform designed to explore market data and provide useful investment-related information.
 
-Tech: React.js • Node.js • MongoDB • AI/ML
+**Tech:** React.js • Node.js • MongoDB • AI/ML
 
-🔗 Live Demo →
+🔗 **[Live Demo →](https://investiq-xgcv.vercel.app/)**
+
+---
+
 ### 🏥 Hospital Management System
 
-Software project focused on organizing hospital-related information and records.
+A software project focused on organizing hospital-related information and managing essential records.
 
-**Java • OOP • Database**
+**Tech:** Java • OOP • Database
 
 ---
 
 ### 🎮 Snake Water Gun Game
 
-Interactive programming project created to practice programming fundamentals and logical problem solving.
+An interactive programming project created to practice programming fundamentals, conditional logic and logical problem solving.
 
-**Python**
+**Tech:** Python
 
 ---
 
