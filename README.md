@@ -55,7 +55,7 @@ Educational platform for accessing notes, PYQs, syllabus and e-books.
 
 **React • Node.js • Express.js • MongoDB**
 
-🔗 [Live Website](https://student-resources-hub-1.onrender.com/)
+🔗 [Live Website](https://student-resources-hub-production.vercel.app/login)
 
 ---
 
