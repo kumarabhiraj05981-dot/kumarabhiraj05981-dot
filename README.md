@@ -1,16 +1,129 @@
-## Hi there 👋
+# 👋 Hi, I'm Abhiraj Kumar
 
-<!--
-**kumarabhiraj05981-dot/kumarabhiraj05981-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Aspiring AI/ML Engineer | Computer Science Engineering Student
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, Software Development and Problem Solving**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building real-world projects, learning new technologies and continuously improving my engineering skills.
+
+---
+
+## 🌐 My Portfolio
+
+### 🚀 [Visit My Portfolio →](https://abhiraj-portfolio-one.vercel.app/)
+
+> Explore my skills, projects, education, resume and development journey.
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Diploma in Computer Science Engineering
+* 🏫 Government Polytechnic Vaishali
+* 📚 Currently pursuing 5th Semester
+* 🤖 Interested in Artificial Intelligence & Machine Learning
+* 💻 Passionate about Software Development
+* 🚀 Open to learning, collaboration and opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Java` `C` `Python` `JavaScript`
+
+**Frontend**
+
+`HTML` `CSS` `React.js` `Vite`
+
+**Backend & Database**
+
+`Node.js` `Express.js` `MongoDB` `REST API`
+
+**Tools & Technologies**
+
+`Git` `GitHub` `Vercel` `AI/ML` `Data Science`
+
+---
+
+## 🚀 Featured Projects
+
+### 📚 Student Resources Hub
+
+Educational platform for accessing notes, PYQs, syllabus and e-books.
+
+**React • Node.js • Express.js • MongoDB**
+
+🔗 [Live Website](https://student-resources-hub-1.onrender.com/)
+
+---
+
+### 📈 INVESTIQ AI
+
+AI-powered stock and cryptocurrency project for exploring market data and investment-related information.
+
+**React • Node.js • MongoDB • AI/ML**
+
+---
+
+### 🏥 Hospital Management System
+
+Software project focused on organizing hospital-related information and records.
+
+**Java • OOP • Database**
+
+---
+
+### 🎮 Snake Water Gun Game
+
+Interactive programming project created to practice programming fundamentals and logical problem solving.
+
+**Python**
+
+---
+
+## 🎯 Current Focus
+
+```text
+Artificial Intelligence
+        ↓
+Machine Learning
+        ↓
+Data Science
+        ↓
+Data Structures & Algorithms
+        ↓
+Real-World Software Development
+```
+
+---
+
+## 📚 Currently Learning
+
+* 🤖 Artificial Intelligence
+* 🧠 Machine Learning
+* 📊 Data Science
+* 💻 Data Structures & Algorithms
+* 🌐 Full-Stack Development
+
+---
+
+## 🔗 Connect With Me
+
+🌐 **Portfolio:**
+https://abhiraj-portfolio-one.vercel.app/
+
+💼 **LinkedIn:**
+https://www.linkedin.com/in/abhiraj-kumar-2a869a3b1/
+
+🐙 **GitHub:**
+https://github.com/kumarabhiraj05981-dot
+
+---
+
+## ⭐ Thanks for Visiting!
+
+I'm continuously **learning, building and improving**.
+
+### 🚀 Build. Learn. Grow.
