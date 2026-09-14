@@ -57,16 +57,13 @@ Educational platform for accessing notes, PYQs, syllabus and e-books.
 
 🔗 [Live Website](https://student-resources-hub-production.vercel.app/login)
 
----
+📈 INVESTIQ AI
 
-### 📈 INVESTIQ AI
+An AI-powered stock and cryptocurrency platform designed to explore market data and provide useful investment-related information.
 
-AI-powered stock and cryptocurrency project for exploring market data and investment-related information.
+Tech: React.js • Node.js • MongoDB • AI/ML
 
-**React • Node.js • MongoDB • AI/ML**
-
----
-
+🔗 Live Demo →
 ### 🏥 Hospital Management System
 
 Software project focused on organizing hospital-related information and records.
