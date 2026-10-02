@@ -2,9 +2,11 @@
 
 ### 🚀 Aspiring AI/ML Engineer | Computer Science Engineering Student
 
-I'm a Computer Science Engineering student passionate about **Artificial Intelligence, Machine Learning, Software Development and Problem Solving**.
+I'm a **Computer Science Engineering student** passionate about **Artificial Intelligence, Machine Learning, Software Development, Data Science, and Problem Solving**.
 
-I enjoy building real-world projects, learning new technologies and continuously improving my engineering skills.
+I enjoy turning ideas into practical projects, exploring new technologies, and continuously improving my programming and engineering skills.
+
+> **Learn → Build → Solve → Improve 🚀**
 
 ---
 
@@ -12,120 +14,240 @@ I enjoy building real-world projects, learning new technologies and continuously
 
 ### 🚀 [Visit My Portfolio →](https://abhiraj-portfolio-gules.vercel.app/)
 
-> Explore my skills, projects, education, resume and development journey.
+Explore my:
+
+* 👨‍💻 Skills
+* 🎓 Education
+* 🚀 Projects
+* 📄 Resume
+* 📩 Contact information
+* 🛠️ Development journey
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🎓 Diploma in Computer Science Engineering
-* 🏫 Government Polytechnic Vaishali
-* 📚 Currently pursuing 5th Semester
-* 🤖 Interested in Artificial Intelligence & Machine Learning
-* 💻 Passionate about Software Development
-* 🚀 Open to learning, collaboration and opportunities
-
----
-
-## 🛠️ Tech Stack
-
-### Programming
-
-`Java` `C` `Python` `JavaScript`
-
-### Frontend
-
-`HTML` `CSS` `React.js` `Vite`
-
-### Backend & Database
-
-`Node.js` `Express.js` `MongoDB` `REST API`
-
-### Tools & Technologies
-
-`Git` `GitHub` `Vercel` `AI/ML` `Data Science`
+* 🎓 **Diploma in Computer Science Engineering**
+* 🏫 **Government Polytechnic Vaishali**
+* 📚 Currently pursuing **5th Semester**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 💻 Passionate about **Software Development**
+* 📊 Exploring **Data Science**
+* 🧩 Improving **Data Structures & Algorithms**
+* 🌱 Always learning and building
+* 🤝 Open to collaboration, learning opportunities, and projects
 
 ---
 
-## 🚀 Featured Projects
+# 🛠️ Tech Stack
 
-### 📚 Student Resources Hub
+### 💻 Programming Languages
 
-A student-focused educational platform for accessing notes, previous year questions, syllabus, e-books and other academic resources.
+`C` `Java` `Python` `JavaScript`
 
-**Tech:** React.js • Node.js • Express.js • MongoDB
+### 🎨 Frontend Development
 
-🔗 **[Live Website →](https://studentresourceshub.vercel.app/login)**
+`HTML5` `CSS3` `React.js` `Vite`
+
+### ⚙️ Backend Development
+
+`Node.js` `Express.js` `REST API`
+
+### 🗄️ Database
+
+`MongoDB` `MongoDB Atlas`
+
+### 🤖 AI / Data
+
+`Artificial Intelligence` `Machine Learning` `Data Science` `Google Gemini`
+
+### 🧰 Tools & Platforms
+
+`Git` `GitHub` `VS Code` `Vercel` `Cloudinary`
 
 ---
 
-### 📈 INVESTIQ AI
+# 🚀 Featured Projects
 
-An AI-powered stock and cryptocurrency platform designed to explore market data and provide useful investment-related information.
+## 📚 Student Resources Hub
 
-**Tech:** React.js • Node.js • MongoDB • AI/ML
+A full-stack educational platform designed to help students access and manage academic resources from one place.
+
+### Features
+
+* 📖 Notes
+* 📝 Previous Year Questions
+* 📋 Syllabus
+* 📕 E-Books
+* 🎓 Branch-wise resources
+* 🔎 Resource search and filtering
+* 🔖 Bookmarks
+* 📅 Study Planner
+* 🤖 AI Study Tools
+* 👨‍💼 Admin Resource Management
+* 🔐 JWT Authentication
+
+**Tech:** `React` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Cloudinary` • `Gemini API`
+
+🔗 **[Live Website →](https://student-resources-hq1anqjkr-student-resource-hub1.vercel.app/login)**
+
+---
+
+## 📈 INVESTIQ AI
+
+An AI-powered stock and cryptocurrency project created to explore financial market data, analysis, and AI-assisted insights.
+
+### Highlights
+
+* 📊 Market data dashboard
+* 📈 Stock analysis
+* 🪙 Cryptocurrency information
+* 🤖 AI-powered assistance
+* 📉 Interactive charts
+* 🔐 User authentication
+
+**Tech:** `React` • `Node.js` • `Express.js` • `MongoDB` • `AI/ML` • `Chart.js`
 
 🔗 **[Live Demo →](https://investiq-xgcv.vercel.app/)**
 
 ---
 
-### 🏥 Hospital Management System
+## 🏥 Hospital Management System
 
 A software project focused on organizing hospital-related information and managing essential records.
 
-**Tech:** Java • OOP • Database
+### Concepts Used
+
+* Object-Oriented Programming
+* Data management
+* Application logic
+* Database concepts
+
+**Tech:** `Java` • `OOP` • `Database`
 
 ---
 
-### 🎮 Snake Water Gun Game
+## 🎮 Snake Water Gun Game
 
-An interactive programming project created to practice programming fundamentals, conditional logic and logical problem solving.
+A programming project developed to practice fundamental programming concepts and logical problem solving.
 
-**Tech:** Python
+### Concepts Used
+
+* Conditional statements
+* User input
+* Randomization
+* Game logic
+* Problem solving
+
+**Tech:** `Python`
 
 ---
 
-## 🎯 Current Focus
+# 🎯 My Current Focus
 
 ```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Data Science
-        ↓
-Data Structures & Algorithms
-        ↓
-Real-World Software Development
+              Artificial Intelligence
+                       ↓
+               Machine Learning
+                       ↓
+                 Data Science
+                       ↓
+           Data Structures & Algorithms
+                       ↓
+              Full-Stack Development
+                       ↓
+             Real-World Projects
 ```
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
 * 📊 Data Science
 * 💻 Data Structures & Algorithms
+* 🐍 Python
+* ☕ Java
+* ⚙️ Backend Development
 * 🌐 Full-Stack Development
 
 ---
 
-## 🔗 Connect With Me
+# 🧩 Development Philosophy
 
-🌐 **Portfolio:**
-https://abhiraj-portfolio-one.vercel.app/
+I believe that the best way to learn technology is to **build real projects**.
 
-💼 **LinkedIn:**
+```text
+Learn a Concept
+      ↓
+Practice It
+      ↓
+Build a Project
+      ↓
+Find Problems
+      ↓
+Debug & Improve
+      ↓
+Build Better
+```
+
+---
+
+# 💼 What I'm Working Toward
+
+My long-term goal is to grow as an **AI/ML Engineer** while developing strong foundations in:
+
+* Programming
+* Data Structures & Algorithms
+* Machine Learning
+* Artificial Intelligence
+* Software Engineering
+* Full-Stack Development
+* Real-world problem solving
+
+---
+
+# 📊 GitHub Journey
+
+I use GitHub to:
+
+* 🚀 Build and maintain projects
+* 📚 Document my learning
+* 🧪 Experiment with new technologies
+* 🐛 Solve development problems
+* 🤝 Collaborate with other developers
+
+---
+
+# 🌐 Connect With Me
+
+### 🌐 Portfolio
+
+https://abhiraj-portfolio-gules.vercel.app/
+
+### 💼 LinkedIn
+
 https://www.linkedin.com/in/abhiraj-kumar-2a869a3b1/
 
-🐙 **GitHub:**
+### 🐙 GitHub
+
 https://github.com/kumarabhiraj05981-dot
 
 ---
 
-## ⭐ Thanks for Visiting!
+# 📄 Resume
 
-I'm continuously **learning, building and improving**.
+📥 **[View / Download My Resume →](https://abhiraj-portfolio-gules.vercel.app/)**
 
-### 🚀 Build. Learn. Grow.
+---
+
+# ⭐ Thanks for Visiting!
+
+Thanks for checking out my GitHub profile.
+
+I'm continuously **learning, building, debugging, and improving**.
+
+### 🚀 Build. Learn. Solve. Grow.
+
+---
