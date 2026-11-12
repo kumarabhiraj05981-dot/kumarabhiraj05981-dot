@@ -1,253 +1,232 @@
-# 👋 Hi, I'm Abhiraj Kumar
+# 👋 Hey, I'm Abhiraj Kumar
 
-### 🚀 Aspiring AI/ML Engineer | Computer Science Engineering Student
+### 🚀 Aspiring AI/ML Engineer | Full-Stack Developer | CSE Student
 
-I'm a **Computer Science Engineering student** passionate about **Artificial Intelligence, Machine Learning, Software Development, Data Science, and Problem Solving**.
+**Turning ideas into technology, and learning into real-world projects.**
 
-I enjoy turning ideas into practical projects, exploring new technologies, and continuously improving my programming and engineering skills.
+I'm a Computer Science Engineering student passionate about building technology-driven solutions. My interests include Artificial Intelligence, Machine Learning, Data Science, Software Development, and Full-Stack Engineering.
 
-> **Learn → Build → Solve → Improve 🚀**
+I enjoy exploring emerging technologies, solving programming challenges, and developing practical projects that turn concepts into meaningful applications.
 
----
-
-## 🌐 My Portfolio
-
-### 🚀 [Visit My Portfolio →](https://abhiraj-portfolio-gules.vercel.app/)
-
-Explore my:
-
-* 👨‍💻 Skills
-* 🎓 Education
-* 🚀 Projects
-* 📄 Resume
-* 📩 Contact information
-* 🛠️ Development journey
+> **Think. Learn. Build. Innovate. Repeat. 🚀**
 
 ---
 
-# 👨‍💻 About Me
+## 🌐 Explore My Portfolio
 
-* 🎓 **Diploma in Computer Science Engineering**
-* 🏫 **Government Polytechnic Vaishali**
-* 📚 Currently pursuing **5th Semester**
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 💻 Passionate about **Software Development**
-* 📊 Exploring **Data Science**
-* 🧩 Improving **Data Structures & Algorithms**
-* 🌱 Always learning and building
-* 🤝 Open to collaboration, learning opportunities, and projects
+### [🚀 Visit My Portfolio](https://abhiraj-portfolio-gules.vercel.app/)
+
+Discover my skills, projects, education, resume, and development journey.
 
 ---
 
-# 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 💻 Programming Languages
+- 🎓 Diploma in Computer Science Engineering
+- 🏫 Government Polytechnic Vaishali
+- 📚 Currently pursuing 5th Semester
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💻 Interested in Full-Stack Development
+- 📊 Exploring Data Science and Data Analytics
+- 🧠 Strengthening Data Structures & Algorithms
+- 🚀 Building real-world software projects
+- 🤝 Open to collaboration and learning opportunities
 
+---
+
+## 🛠️ Technical Arsenal
+
+### Programming Languages
 `C` `Java` `Python` `JavaScript`
 
-### 🎨 Frontend Development
+### Frontend Development
+`HTML5` `CSS3` `React.js` `TypeScript` `Vite`
 
-`HTML5` `CSS3` `React.js` `Vite`
+### Backend Development
+`Node.js` `Express.js` `REST APIs`
 
-### ⚙️ Backend Development
+### Database & Storage
+`MongoDB` `MongoDB Atlas` `Cloudinary`
 
-`Node.js` `Express.js` `REST API`
+### AI & Data Technologies
+`Artificial Intelligence` `Machine Learning` `Data Science` `Google Gemini API`
 
-### 🗄️ Database
-
-`MongoDB` `MongoDB Atlas`
-
-### 🤖 AI / Data
-
-`Artificial Intelligence` `Machine Learning` `Data Science` `Google Gemini`
-
-### 🧰 Tools & Platforms
-
-`Git` `GitHub` `VS Code` `Vercel` `Cloudinary`
+### Developer Tools & Platforms
+`Git` `GitHub` `VS Code` `Postman` `Vercel`
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 Student Resources Hub
+## 📚 01. Student Resources Hub
 
-A full-stack educational platform designed to help students access and manage academic resources from one place.
+**A full-stack educational platform built to make academic resources accessible and organized.**
 
-### Features
+Designed to help students discover, access, and manage learning materials through a centralized platform.
 
-* 📖 Notes
-* 📝 Previous Year Questions
-* 📋 Syllabus
-* 📕 E-Books
-* 🎓 Branch-wise resources
-* 🔎 Resource search and filtering
-* 🔖 Bookmarks
-* 📅 Study Planner
-* 🤖 AI Study Tools
-* 👨‍💼 Admin Resource Management
-* 🔐 JWT Authentication
+**Key Features**
+- 📖 Semester-wise Notes
+- 📝 Previous Year Question Papers
+- 📋 Academic Syllabus
+- 📕 E-Books and Study Materials
+- 🎓 Branch-wise Resources
+- 🔎 Search and Advanced Filtering
+- 🔖 Bookmark Management
+- 🤖 AI-powered Study Tools
+- 👨‍💼 Admin Dashboard and Resource Management
+- 🔐 Secure JWT Authentication
 
-**Tech:** `React` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Cloudinary` • `Gemini API`
+**Technology Stack:**  
+`React` `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `Google Gemini API`
 
-🔗 **[Live Website →](https://student-resources-hq1anqjkr-student-resource-hub1.vercel.app/login)**
-
----
-
-## 📈 INVESTIQ AI
-
-An AI-powered stock and cryptocurrency project created to explore financial market data, analysis, and AI-assisted insights.
-
-### Highlights
-
-* 📊 Market data dashboard
-* 📈 Stock analysis
-* 🪙 Cryptocurrency information
-* 🤖 AI-powered assistance
-* 📉 Interactive charts
-* 🔐 User authentication
-
-**Tech:** `React` • `Node.js` • `Express.js` • `MongoDB` • `AI/ML` • `Chart.js`
-
-🔗 **[Live Demo →](https://investiq-xgcv.vercel.app/)**
+🔗 **[Explore Live Project →](https://student-resources-hq1anqjkr-student-resource-hub1.vercel.app/login)**
 
 ---
 
-## 🏥 Hospital Management System
+## 📈 02. INVESTIQ AI
 
-A software project focused on organizing hospital-related information and managing essential records.
+**An AI-powered financial market exploration platform.**
 
-### Concepts Used
+A project focused on exploring stock market and cryptocurrency information with AI-assisted insights.
 
-* Object-Oriented Programming
-* Data management
-* Application logic
-* Database concepts
+**Key Features**
+- 📊 Market Data Dashboard
+- 📈 Stock Market Analysis
+- 🪙 Cryptocurrency Information
+- 🤖 AI-assisted Insights
+- 📉 Interactive Charts
+- 🔐 User Authentication
 
-**Tech:** `Java` • `OOP` • `Database`
+**Technology Stack:**  
+`React` `Node.js` `Express.js` `MongoDB` `AI/ML` `Chart.js`
 
----
-
-## 🎮 Snake Water Gun Game
-
-A programming project developed to practice fundamental programming concepts and logical problem solving.
-
-### Concepts Used
-
-* Conditional statements
-* User input
-* Randomization
-* Game logic
-* Problem solving
-
-**Tech:** `Python`
+🔗 **[Explore Live Demo →](https://investiq-xgcv.vercel.app/)**
 
 ---
 
-# 🎯 My Current Focus
+## 🏥 03. Hospital Management System
+
+**A software application focused on organizing hospital-related information and records.**
+
+**Core Concepts**
+- Object-Oriented Programming
+- Database Management
+- Application Logic
+- Data Organization
+- Software Development Fundamentals
+
+**Technology Stack:**  
+`Java` `OOP` `Database Concepts`
+
+---
+
+## 🎮 04. Snake Water Gun Game
+
+**A Python-based mini game developed to strengthen programming fundamentals and logical thinking.**
+
+**Core Concepts**
+- Conditional Statements
+- User Input Handling
+- Randomization
+- Game Logic
+- Problem Solving
+
+**Technology Stack:**  
+`Python`
+
+---
+
+# 🎯 My Learning Roadmap
 
 ```text
-              Artificial Intelligence
-                       ↓
-               Machine Learning
-                       ↓
-                 Data Science
-                       ↓
-           Data Structures & Algorithms
-                       ↓
-              Full-Stack Development
-                       ↓
-             Real-World Projects
+       PROGRAMMING FUNDAMENTALS
+                  ↓
+        DATA STRUCTURES & ALGORITHMS
+                  ↓
+          SOFTWARE DEVELOPMENT
+                  ↓
+          FULL-STACK ENGINEERING
+                  ↓
+          ARTIFICIAL INTELLIGENCE
+                  ↓
+           MACHINE LEARNING
+                  ↓
+             DATA SCIENCE
+                  ↓
+          REAL-WORLD INNOVATION
 ```
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Exploring
 
-* 🤖 Artificial Intelligence
-* 🧠 Machine Learning
-* 📊 Data Science
-* 💻 Data Structures & Algorithms
-* 🐍 Python
-* ☕ Java
-* ⚙️ Backend Development
-* 🌐 Full-Stack Development
+| Domain | Learning Focus |
+|---|---|
+| 🤖 Artificial Intelligence | AI concepts and applications |
+| 🧠 Machine Learning | Algorithms and model fundamentals |
+| 📊 Data Science | Data analysis and visualization |
+| 🐍 Python | Programming and problem solving |
+| ☕ Java | OOP and application development |
+| 💻 DSA | Data structures and algorithms |
+| ⚙️ Backend | APIs and server-side development |
+| 🌐 Full-Stack | End-to-end web applications |
 
 ---
 
-# 🧩 Development Philosophy
+## 💡 My Development Philosophy
 
-I believe that the best way to learn technology is to **build real projects**.
+I believe real learning happens when knowledge is transformed into practical solutions.
 
 ```text
-Learn a Concept
-      ↓
-Practice It
-      ↓
-Build a Project
-      ↓
-Find Problems
-      ↓
-Debug & Improve
-      ↓
-Build Better
+       LEARN SOMETHING NEW
+                ↓
+          UNDERSTAND IT
+                ↓
+          WRITE THE CODE
+                ↓
+          BUILD A PROJECT
+                ↓
+          DEBUG & IMPROVE
+                ↓
+          CREATE SOMETHING
+             BETTER 🚀
 ```
 
 ---
 
-# 💼 What I'm Working Toward
+## 📊 My GitHub Journey
 
-My long-term goal is to grow as an **AI/ML Engineer** while developing strong foundations in:
+GitHub is where I document my progress, experiment with technologies, and turn ideas into working projects.
 
-* Programming
-* Data Structures & Algorithms
-* Machine Learning
-* Artificial Intelligence
-* Software Engineering
-* Full-Stack Development
-* Real-world problem solving
+- 🚀 Developing practical applications
+- 📚 Exploring new technologies
+- 🧪 Experimenting with code
+- 🐛 Debugging and improving solutions
+- 🤝 Learning through collaboration
 
 ---
 
-# 📊 GitHub Journey
+# 🤝 Let's Connect
 
-I use GitHub to:
+I'm always interested in connecting with developers, learning from others, and exploring opportunities to collaborate.
 
-* 🚀 Build and maintain projects
-* 📚 Document my learning
-* 🧪 Experiment with new technologies
-* 🐛 Solve development problems
-* 🤝 Collaborate with other developers
-
----
-
-# 🌐 Connect With Me
-
-### 🌐 Portfolio
-
-https://abhiraj-portfolio-gules.vercel.app/
-
-### 💼 LinkedIn
-
-https://www.linkedin.com/in/abhiraj-kumar-2a869a3b1/
-
-### 🐙 GitHub
-
-https://github.com/kumarabhiraj05981-dot
+| Platform | Link |
+|---|---|
+| 🌐 Portfolio | [Visit Portfolio](https://abhiraj-portfolio-gules.vercel.app/) |
+| 💼 LinkedIn | [Connect on LinkedIn](https://www.linkedin.com/in/abhiraj-kumar-2a869a3b1/) |
+| 🐙 GitHub | [Explore My GitHub](https://github.com/kumarabhiraj05981-dot) |
+| 📄 Resume | [View My Resume](https://abhiraj-portfolio-gules.vercel.app/) |
 
 ---
 
-# 📄 Resume
+## 🌟 Beyond the Code
 
-📥 **[View / Download My Resume →](https://abhiraj-portfolio-gules.vercel.app/)**
+I'm on a continuous journey of learning, experimenting, and building.
 
----
+My goal is to become a skilled **AI/ML Engineer** with strong foundations in programming, software engineering, data science, and intelligent application development.
 
-# ⭐ Thanks for Visiting!
+Thanks for visiting my profile!
 
-Thanks for checking out my GitHub profile.
+**Let's keep learning, building, and creating something impactful.**
 
-I'm continuously **learning, building, debugging, and improving**.
-
-### 🚀 Build. Learn. Solve. Grow.
-
----
+### 🚀 Code Your Ideas. Build Your Future.
