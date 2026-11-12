@@ -79,7 +79,7 @@ Designed to help students discover, access, and manage learning materials throug
 **Technology Stack:**  
 `React` `TypeScript` `Node.js` `Express.js` `MongoDB` `JWT` `Cloudinary` `Google Gemini API`
 
-🔗 **[Explore Live Project →](https://student-resources-hq1anqjkr-student-resource-hub1.vercel.app/login)**
+🔗 **[Explore Live Project →](https://student-resources-1vnzb3d3d-student-resource-hub1.vercel.app/login)**
 
 ---
 
